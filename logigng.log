@@ -2,5 +2,6 @@
   2024-02-28 19:06:26 WARN  log4jclass:13 - three
   2024-02-28 19:06:26 ERROR log4jclass:14 - four
   2024-02-28 19:06:26 FATAL log4jclass:15 - five
-test
+test1
+test2
   
